@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iNote-FrontEnd/static/css/main.598a6723.css",
+    "main.js": "/iNote-FrontEnd/static/js/main.4720881c.js",
+    "index.html": "/iNote-FrontEnd/index.html",
+    "main.598a6723.css.map": "/iNote-FrontEnd/static/css/main.598a6723.css.map",
+    "main.4720881c.js.map": "/iNote-FrontEnd/static/js/main.4720881c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.598a6723.css",
+    "static/js/main.4720881c.js"
+  ]
+}
